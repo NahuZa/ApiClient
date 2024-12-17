@@ -1,0 +1,10 @@
+
+th, td {
+    text-align: left;
+}
+tr.odd {
+    background-color: rgb(201, 201, 201);
+}
+tr.even {
+    background-color: white;
+}
